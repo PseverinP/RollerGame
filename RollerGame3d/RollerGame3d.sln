@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D0C8A850-8183-016D-0A2C-07AF21F3396A}") = "RollerGame3d", "Assembly-CSharp.csproj", "{1423A08F-7228-B992-851E-1B00018FB7BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1423A08F-7228-B992-851E-1B00018FB7BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1423A08F-7228-B992-851E-1B00018FB7BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1423A08F-7228-B992-851E-1B00018FB7BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1423A08F-7228-B992-851E-1B00018FB7BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
